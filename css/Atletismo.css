@@ -1,0 +1,12 @@
+*|body, *|p, *|li {
+  border: 4px dotted black;
+  background-color: #ff9966;
+  display: block;
+  visibility: visible;
+}
+*|p {
+  background-color: #ffccff;
+}
+*|footer {
+  background-color: #333399;
+}

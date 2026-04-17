@@ -1,0 +1,10 @@
+body, p, li {
+  border: 8pt dashed black;
+  background-color: #66ffff;
+  display: block;
+  visibility: visible;
+}
+.PISCI {
+  border-style: dotted;
+  border-width: 2px;
+}

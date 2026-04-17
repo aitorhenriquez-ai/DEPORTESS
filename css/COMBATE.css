@@ -1,0 +1,9 @@
+body, p, li {
+  border: 14px double black;
+  background-color: #ef0000;
+  display: block;
+  visibility: visible;
+}
+.BOX {
+  border-style: dotted;
+}
